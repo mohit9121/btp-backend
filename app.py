@@ -2,11 +2,11 @@ from flask import Flask, request, jsonify
 from PIL import Image
 import numpy as np
 import io
-import keras as Keras
+import tensorflow as tf
 
 app = Flask(__name__) 
 
-# model = Keras.models.load_model('./Prototype-Green_Hackathon_model.h5')
+# model = tf.keras.models.load_model('./Prototype-Green_Hackathon_model.h5')
 
 # class_name = ['Apple___Apple_scab', 'Apple___Black_rot', 'Apple___Cedar_apple_rust', 'Apple___healthy', 'Potato___Early_blight', 'Potato___Late_blight', 'Potato___healthy']
 
