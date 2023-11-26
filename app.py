@@ -74,3 +74,7 @@ if __name__ == '__main__':
 # scipy 1.7.3 requires numpy<1.23.0,>=1.16.5, but you have numpy 1.26.1 which is incompatible.
 # numba 0.55.1 requires numpy<1.22,>=1.18, but you have numpy 1.26.1 which is incompatible.
 # pd.read_hdf(r"\home\fbarajas\newsite\data\YAHOO.H5","TWTR")
+# tensorflow==2.11.0
+# Flask==2.2.5
+# numpy==1.21.6
+# Pillow==9.2.0
