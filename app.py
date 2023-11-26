@@ -35,5 +35,9 @@ def predict_disease():
     except Exception as e:
         return jsonify({'error': str(e)})
 
+@app.route('/predict', methods=['POST'])
+def predict_disease():
+    return 'post request response'
+
 if __name__ == '__main__':
     app.run()
