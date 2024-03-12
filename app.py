@@ -14,6 +14,8 @@ input_details = interpreter.get_input_details()
 output_details = interpreter.get_output_details()
 input_shape = input_details[0]['shape'][1:3]
 
+
+
 def preprocess_image(image):
     img = image.convert("RGB")
     img = img.resize(input_shape[::-1])
