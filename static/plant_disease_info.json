@@ -1,0 +1,617 @@
+[
+    {
+        "disease": "Apple___Apple_scab",
+        "causes": [
+            "Fungal infection caused by Venturia inaequalis",
+            "Humid and cool weather conditions",
+            "Presence of infected plant debris",
+            "Poor air circulation around the apple trees",
+            "Overhead irrigation"
+        ],
+        "remedies": [
+            "Prune and remove infected leaves and branches",
+            "Apply fungicides like sulfur or copper-based sprays",
+            "Promote good air circulation by spacing trees properly",
+            "Avoid overhead irrigation",
+            "Clean up fallen leaves and debris regularly"
+        ]
+    },
+    {
+        "disease": "Apple___Black_rot",
+        "causes": [
+            "Fungal infection caused by Botryosphaeria obtusa",
+            "Warm and humid weather conditions",
+            "Poor orchard sanitation",
+            "Overripe or injured fruit",
+            "Presence of mummified fruit on the tree"
+        ],
+        "remedies": [
+            "Prune and remove infected branches and mummified fruit",
+            "Apply fungicides before and after bloom",
+            "Improve orchard sanitation by removing infected debris",
+            "Ensure proper tree spacing for good air circulation",
+            "Harvest fruit promptly and handle with care"
+        ]
+    },
+    {
+        "disease": "Apple___Cedar_apple_rust",
+        "causes": [
+            "Fungal infection caused by Gymnosporangium juniperi-virginianae",
+            "Alternate hosts including Eastern Red Cedar and related juniper species",
+            "Moist and cool weather conditions",
+            "Airborne spores spreading from nearby infected trees",
+            "Susceptible apple varieties"
+        ],
+        "remedies": [
+            "Plant resistant apple varieties if possible",
+            "Prune and remove infected branches",
+            "Apply fungicides during the spring to protect new growth",
+            "Remove nearby alternate hosts like Eastern Red Cedar",
+            "Promote good air circulation and sunlight penetration"
+        ]
+    },
+    {
+        "disease": "Apple___healthy",
+        "causes": [
+            "No disease present"
+        ],
+        "remedies": [
+            "Maintain overall tree health through proper nutrition and care",
+            "Regularly monitor for signs of disease or pest infestation",
+            "Address any environmental stressors promptly",
+            "Implement proper orchard management practices",
+            "Consider preventive measures such as applying dormant oil sprays"
+        ]
+    },
+    {
+        "disease": "Blueberry___healthy",
+        "causes": [
+            "No disease present"
+        ],
+        "remedies": [
+            "Maintain overall plant health through proper watering and fertilization",
+            "Monitor for signs of pests or diseases regularly",
+            "Implement proper cultural practices such as pruning and mulching",
+            "Provide adequate sunlight and air circulation",
+            "Consider preventive measures such as applying horticultural oil"
+        ]
+    },
+    {
+        "disease": "Cherry_(including_sour)___Powdery_mildew",
+        "causes": [
+            "Fungal infection caused by Podosphaera clandestina",
+            "Humid and cool weather conditions",
+            "Poor air circulation around cherry trees",
+            "Overhead irrigation",
+            "Susceptible cherry varieties"
+        ],
+        "remedies": [
+            "Prune and remove infected plant parts",
+            "Apply fungicides containing sulfur, potassium bicarbonate, or neem oil",
+            "Promote good air circulation through proper pruning and spacing",
+            "Avoid overhead irrigation; use drip irrigation instead",
+            "Remove and destroy fallen leaves to reduce overwintering spores"
+        ]
+    },
+    {
+        "disease": "Cherry_(including_sour)___healthy",
+        "causes": [
+            "No disease present"
+        ],
+        "remedies": [
+            "Maintain overall tree health through proper pruning and fertilization",
+            "Regularly monitor for signs of pests or diseases",
+            "Implement proper cultural practices such as mulching and watering",
+            "Protect trees from environmental stressors",
+            "Consider preventive measures such as applying dormant oil sprays"
+        ]
+    },
+    {
+        "disease": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+        "causes": [
+            "Fungal infection caused by Cercospora zeae-maydis",
+            "Warm and humid weather conditions",
+            "Overhead irrigation",
+            "Crop residue left on the field",
+            "Susceptible corn varieties"
+        ],
+        "remedies": [
+            "Rotate crops to break disease cycle",
+            "Plant resistant corn varieties if available",
+            "Practice good field sanitation by removing crop residue",
+            "Apply fungicides when conditions favor disease development",
+            "Promote good air circulation through proper plant spacing"
+        ]
+    },
+    {
+        "disease": "Corn_(maize)___Common_rust_",
+        "causes": [
+            "Fungal infection caused by Puccinia sorghi",
+            "Warm and humid weather conditions",
+            "Susceptible corn varieties",
+            "Presence of alternate hosts",
+            "Poor field sanitation"
+        ],
+        "remedies": [
+            "Plant resistant corn varieties if available",
+            "Remove alternate hosts like volunteer corn and grass weeds",
+            "Apply fungicides preventively during favorable conditions",
+            "Practice crop rotation to break disease cycle",
+            "Promote good air circulation by proper plant spacing"
+        ]
+    },
+    {
+        "disease": "Corn_(maize)___Northern_Leaf_Blight",
+        "causes": [
+            "Fungal infection caused by Exserohilum turcicum",
+            "Warm and humid weather conditions",
+            "Overhead irrigation",
+            "Poor field sanitation",
+            "Susceptible corn varieties"
+        ],
+        "remedies": [
+            "Rotate crops to break disease cycle",
+            "Plant resistant corn varieties if available",
+            "Practice good field sanitation by removing crop residue",
+            "Apply fungicides preventively during favorable conditions",
+            "Promote good air circulation through proper plant spacing"
+        ]
+    },
+    {
+        "disease": "Corn_(maize)___healthy",
+        "causes": [
+            "No disease present"
+        ],
+        "remedies": [
+            "Maintain overall plant health through proper fertilization and irrigation",
+            "Monitor for signs of pests or diseases regularly",
+            "Implement proper cultural practices such as crop rotation and weed control",
+            "Protect plants from environmental stressors",
+            "Consider preventive measures such as applying fungicides or insecticides as needed"
+        ]
+    },
+    {
+        "disease": "Grape___Black_rot",
+        "causes": [
+            "Fungal infection caused by Guignardia bidwellii",
+            "Warm and humid weather conditions",
+            "Presence of infected plant debris",
+            "Poor air circulation around grapevines",
+            "Overhead irrigation"
+        ],
+        "remedies": [
+            "Prune and remove infected canes and leaves",
+            "Apply fungicides containing captan or myclobutanil",
+            "Promote good air circulation through proper trellising and spacing",
+            "Avoid overhead irrigation; use drip irrigation instead",
+            "Remove and destroy infected plant debris"
+        ]
+    },
+    {
+        "disease": "Grape___Esca_(Black_Measles)",
+        "causes": [
+            "Fungal infection caused by Phaeomoniella chlamydospora and Phaeoacremonium spp.",
+            "Stressful environmental conditions",
+            "Open pruning wounds",
+            "Susceptible grape varieties",
+            "Poor vineyard management practices"
+        ],
+        "remedies": [
+            "Prune and remove infected wood, ensuring proper wound sealing",
+            "Apply fungicides containing thiophanate-methyl or fosetyl-aluminum",
+            "Promote vine vigor through balanced nutrition and water management",
+            "Implement proper vineyard sanitation practices",
+            "Consider grafting resistant rootstocks"
+        ]
+    },
+    {
+        "disease": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+        "causes": [
+            "Fungal infection caused by Isariopsis spp.",
+            "Humid and wet conditions",
+            "Overhead irrigation",
+            "Poor air circulation",
+            "Presence of infected plant debris"
+        ],
+        "remedies": [
+            "Prune and remove infected leaves and shoots",
+            "Apply fungicides containing mancozeb or copper-based compounds",
+            "Promote good air circulation through proper canopy management",
+            "Avoid overhead irrigation; use drip irrigation instead",
+            "Clean up fallen leaves and debris regularly"
+        ]
+    },
+    {
+        "disease": "Grape___healthy",
+        "causes": [
+            "No disease present"
+        ],
+        "remedies": [
+            "Maintain overall vine health through proper pruning and fertilization",
+            "Regularly monitor for signs of pests or diseases",
+            "Implement proper vineyard management practices such as canopy management",
+            "Protect vines from environmental stressors",
+            "Consider preventive measures such as applying fungicides or insecticides as needed"
+        ]
+    },
+    {
+        "disease": "Orange___Haunglongbing_(Citrus_greening)",
+        "causes": [
+            "Bacterial infection caused by Candidatus Liberibacter asiaticus",
+            "Spread by Asian citrus psyllid",
+            "Presence of infected citrus trees",
+            "Environmental stressors weakening trees",
+            "Lack of effective control measures"
+        ],
+        "remedies": [
+            "Remove and destroy infected trees to prevent spread",
+            "Control Asian citrus psyllid population through insecticides or biological control agents",
+            "Promote tree health through proper irrigation and fertilization",
+            "Implement cultural practices like pruning and canopy management",
+            "Research and implement advanced control methods like heat treatment"
+        ]
+    },
+    {
+        "disease": "Peach___Bacterial_spot",
+        "causes": [
+            "Bacterial infection caused by Xanthomonas arboricola pv. pruni",
+            "Warm and wet weather conditions",
+            "Splashing water spreading bacteria",
+            "Infected plant material",
+            "Susceptible peach varieties"
+        ],
+        "remedies": [
+            "Prune and remove infected branches",
+            "Apply copper-based bactericides during dormant and growing seasons",
+            "Promote good air circulation through proper pruning",
+            "Avoid overhead irrigation; use drip irrigation instead",
+            "Practice proper orchard sanitation by removing infected debris"
+        ]
+    },
+    {
+        "disease": "Peach___healthy",
+        "causes": [
+            "No disease present"
+        ],
+        "remedies": [
+            "Maintain overall tree health through proper pruning and fertilization",
+            "Regularly monitor for signs of pests or diseases",
+            "Implement proper cultural practices such as mulching and watering",
+            "Protect trees from environmental stressors",
+            "Consider preventive measures such as applying dormant oil sprays"
+        ]
+    },
+    {
+        "disease": "Pepper,_bell___Bacterial_spot",
+        "causes": [
+            "Bacterial infection caused by Xanthomonas campestris pv. vesicatoria",
+            "Warm and humid weather conditions",
+            "Overhead irrigation",
+            "Splashing water spreading bacteria",
+            "Infected plant material"
+        ],
+        "remedies": [
+            "Prune and remove infected plant parts",
+            "Apply copper-based bactericides",
+            "Promote good air circulation through proper spacing",
+            "Avoid overhead irrigation; use drip irrigation instead",
+            "Practice proper field sanitation by removing infected debris"
+        ]
+    },
+    {
+        "disease": "Pepper,_bell___healthy",
+        "causes": [
+            "No disease present"
+        ],
+        "remedies": [
+            "Maintain overall plant health through proper watering and fertilization",
+            "Monitor for signs of pests or diseases regularly",
+            "Implement proper cultural practices such as mulching and pruning",
+            "Provide adequate sunlight and air circulation",
+            "Consider preventive measures such as applying horticultural oil"
+        ]
+    },
+    {
+        "disease": "Potato___Early_blight",
+        "causes": [
+            "Fungal infection caused by Alternaria solani",
+            "Warm and humid weather conditions",
+            "Overhead irrigation",
+            "Infected plant debris",
+            "Susceptible potato varieties"
+        ],
+        "remedies": [
+            "Rotate crops to break disease cycle",
+            "Plant resistant potato varieties if available",
+            "Practice good field sanitation by removing crop residue",
+            "Apply fungicides containing chlorothalonil or copper-based compounds",
+            "Promote good air circulation through proper plant spacing"
+        ]
+    },
+    {
+        "disease": "Potato___Late_blight",
+        "causes": [
+            "Fungal infection caused by Phytophthora infestans",
+            "Cool and wet weather conditions",
+            "Overhead irrigation",
+            "Presence of infected plant debris",
+            "Susceptible potato varieties"
+        ],
+        "remedies": [
+            "Rotate crops to break disease cycle",
+            "Plant resistant potato varieties if available",
+            "Practice good field sanitation by removing crop residue",
+            "Apply fungicides containing chlorothalonil or copper-based compounds preventively",
+            "Promote good air circulation through proper plant spacing"
+        ]
+    },
+    {
+        "disease": "Potato___healthy",
+        "causes": [
+            "No disease present"
+        ],
+        "remedies": [
+            "Maintain overall plant health through proper fertilization and irrigation",
+            "Monitor for signs of pests or diseases regularly",
+            "Implement proper cultural practices such as crop rotation and weed control",
+            "Protect plants from environmental stressors",
+            "Consider preventive measures such as applying fungicides or insecticides as needed"
+        ]
+    },
+    {
+        "disease": "Raspberry___healthy",
+        "causes": [
+            "No disease present"
+        ],
+        "remedies": [
+            "Maintain overall plant health through proper watering and fertilization",
+            "Monitor for signs of pests or diseases regularly",
+            "Implement proper cultural practices such as pruning and mulching",
+            "Provide adequate sunlight and air circulation",
+            "Consider preventive measures such as applying horticultural oil"
+        ]
+    },
+    {
+        "disease": "Soybean___healthy",
+        "causes": [
+            "No disease present"
+        ],
+        "remedies": [
+            "Maintain overall plant health through proper fertilization and irrigation",
+            "Monitor for signs of pests or diseases regularly",
+            "Implement proper cultural practices such as crop rotation and weed control",
+            "Protect plants from environmental stressors",
+            "Consider preventive measures such as applying fungicides or insecticides as needed"
+        ]
+    },
+    {
+        "disease": "Squash___Powdery_mildew",
+        "causes": [
+            "Fungal infection caused by Podosphaera xanthii",
+            "Humid and warm weather conditions",
+            "Overhead irrigation",
+            "Crowded plant spacing",
+            "Susceptible squash varieties"
+        ],
+        "remedies": [
+            "Prune and remove infected plant parts",
+            "Apply fungicides containing sulfur or potassium bicarbonate",
+            "Promote good air circulation through proper plant spacing",
+            "Avoid overhead irrigation; use drip irrigation instead",
+            "Apply preventive fungicides when conditions favor disease development"
+        ]
+    },
+    {
+        "disease": "Strawberry___Leaf_scorch",
+        "causes": [
+            "Fungal infection caused by Diplocarpon earlianum",
+            "Humid and cool weather conditions",
+            "Overhead irrigation",
+            "Poor air circulation",
+            "Susceptible strawberry varieties"
+        ],
+        "remedies": [
+            "Prune and remove infected leaves",
+            "Apply fungicides containing chlorothalonil or mancozeb",
+            "Promote good air circulation through proper plant spacing and mulching",
+            "Avoid overhead irrigation; use drip irrigation instead",
+            "Remove and destroy infected plant debris"
+        ]
+    },
+    {
+        "disease": "Strawberry___healthy",
+        "causes": [
+            "No disease present"
+        ],
+        "remedies": [
+            "Maintain overall plant health through proper watering and fertilization",
+            "Monitor for signs of pests or diseases regularly",
+            "Implement proper cultural practices such as mulching and pruning",
+            "Provide adequate sunlight and air circulation",
+            "Consider preventive measures such as applying horticultural oil"
+        ]
+    },
+    {
+        "disease": "Tomato___Bacterial_spot",
+        "causes": [
+            "Bacterial infection caused by Xanthomonas campestris pv. vesicatoria",
+            "Warm and humid weather conditions",
+            "Overhead irrigation",
+            "Splashing water spreading bacteria",
+            "Infected plant material"
+        ],
+        "remedies": [
+            "Prune and remove infected plant parts",
+            "Apply copper-based bactericides",
+            "Promote good air circulation through proper spacing",
+            "Avoid overhead irrigation; use drip irrigation instead",
+            "Practice proper field sanitation by removing infected debris"
+        ]
+    },
+    {
+        "disease": "Tomato___Early_blight",
+        "causes": [
+            "Fungal infection caused by Alternaria solani",
+            "Warm and humid weather conditions",
+            "Overhead irrigation",
+            "Infected plant debris",
+            "Susceptible tomato varieties"
+        ],
+        "remedies": [
+            "Rotate crops to break disease cycle",
+            "Plant resistant tomato varieties if available",
+            "Practice good field sanitation by removing crop residue",
+            "Apply fungicides containing chlorothalonil or copper-based compounds",
+            "Promote good air circulation through proper plant spacing"
+        ]
+    },
+    {
+        "disease": "Tomato___Late_blight",
+        "causes": [
+            "Fungal infection caused by Phytophthora infestans",
+            "Cool and wet weather conditions",
+            "Overhead irrigation",
+            "Presence of infected plant debris",
+            "Susceptible tomato varieties"
+        ],
+        "remedies": [
+            "Rotate crops to break disease cycle",
+            "Plant resistant tomato varieties if available",
+            "Practice good field sanitation by removing crop residue",
+            "Apply fungicides containing chlorothalonil or copper-based compounds preventively",
+            "Promote good air circulation through proper plant spacing"
+        ]
+    },
+    {
+        "disease": "Tomato___Leaf_Mold",
+        "causes": [
+            "Fungal infection caused by Fulvia fulva (formerly Cladosporium fulvum)",
+            "Warm and humid weather conditions",
+            "Overhead irrigation",
+            "Crowded plant spacing",
+            "Susceptible tomato varieties"
+        ],
+        "remedies": [
+            "Prune and remove infected plant parts",
+            "Apply fungicides containing chlorothalonil or mancozeb",
+            "Promote good air circulation through proper plant spacing",
+            "Avoid overhead irrigation; use drip irrigation instead",
+            "Apply preventive fungicides when conditions favor disease development"
+        ]
+    },
+    {
+        "disease": "Tomato___Septoria_leaf_spot",
+        "causes": [
+            "Fungal infection caused by Septoria lycopersici",
+            "Warm and humid weather conditions",
+            "Overhead irrigation",
+            "Infected plant debris",
+            "Susceptible tomato varieties"
+        ],
+        "remedies": [
+            "Prune and remove infected plant parts",
+            "Apply fungicides containing chlorothalonil or mancozeb",
+            "Promote good air circulation through proper plant spacing",
+            "Avoid overhead irrigation; use drip irrigation instead",
+            "Remove and destroy infected plant debris"
+        ]
+    },
+    {
+        "disease": "Tomato___Spider_mites Two-spotted_spider_mite",
+        "causes": [
+            "Infestation by Tetranychus urticae",
+            "Hot and dry weather conditions",
+            "Stress from environmental factors",
+            "Overuse of broad-spectrum insecticides",
+            "Lack of natural enemies"
+        ],
+        "remedies": [
+            "Spray plants with water to dislodge mites",
+            "Introduce natural enemies like predatory mites or ladybugs",
+            "Apply insecticidal soap or neem oil",
+            "Maintain proper humidity levels to discourage mite infestation",
+            "Avoid excessive use of broad-spectrum insecticides"
+        ]
+    },
+    {
+        "disease": "Tomato___Target_Spot",
+        "causes": [
+            "Fungal infection caused by Corynespora cassiicola",
+            "Warm and humid weather conditions",
+            "Overhead irrigation",
+            "Infected plant debris",
+            "Susceptible tomato varieties"
+        ],
+        "remedies": [
+            "Prune and remove infected plant parts",
+            "Apply fungicides containing chlorothalonil or mancozeb",
+            "Promote good air circulation through proper plant spacing",
+            "Avoid overhead irrigation; use drip irrigation instead",
+            "Remove and destroy infected plant debris"
+        ]
+    },
+    {
+        "disease": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+        "causes": [
+            "Viral infection caused by Tomato yellow leaf curl virus (TYLCV)",
+            "Spread by whiteflies (Bemisia tabaci)",
+            "Presence of infected plants",
+            "Warm temperatures",
+            "Susceptible tomato varieties"
+        ],
+        "remedies": [
+            "Control whitefly population through insecticides or biological control agents",
+            "Use virus-free seedlings",
+            "Plant resistant tomato varieties if available",
+            "Implement crop rotation to break disease cycle",
+            "Remove and destroy infected plants to prevent further spread"
+        ]
+    },
+    {
+        "disease": "Tomato___Tomato_mosaic_virus",
+        "causes": [
+            "Viral infection caused by Tomato mosaic virus (ToMV)",
+            "Spread by mechanical transmission (tools, hands) and sap-sucking insects",
+            "Presence of infected plants",
+            "Cool and wet weather conditions",
+            "Susceptible tomato varieties"
+        ],
+        "remedies": [
+            "Use virus-free seedlings",
+            "Control aphid population through insecticides or biological control agents",
+            "Practice good sanitation to prevent mechanical transmission",
+            "Remove and destroy infected plants to prevent further spread",
+            "Avoid planting tomatoes near infected weed hosts"
+        ]
+    },
+    {
+        "disease": "Tomato___healthy",
+        "causes": [
+            "No disease present"
+        ],
+        "remedies": [
+            "Maintain overall plant health through proper watering and fertilization",
+            "Monitor for signs of pests or diseases regularly",
+            "Implement proper cultural practices such as mulching and pruning",
+            "Provide adequate sunlight and air circulation",
+            "Consider preventive measures such as applying horticultural oil"
+        ]
+    },
+    {
+        "disease": "Tomato___Leaf_Mold",
+        "causes": [
+            "Fungal infection caused by Fulvia fulva (formerly Cladosporium fulvum)",
+            "Warm and humid weather conditions",
+            "Overhead irrigation",
+            "Crowded plant spacing",
+            "Susceptible tomato varieties"
+        ],
+        "remedies": [
+            "Prune and remove infected plant parts",
+            "Apply fungicides containing chlorothalonil or mancozeb",
+            "Promote good air circulation through proper plant spacing",
+            "Avoid overhead irrigation; use drip irrigation instead",
+            "Apply preventive fungicides when conditions favor disease development"
+        ]
+    }
+]
