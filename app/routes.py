@@ -69,7 +69,8 @@ def predict():
         disease_info = get_disease_info(predicted_class)
         print(disease_info)
 
-        return jsonify({'prediction': predicted_class}) 
+        # return jsonify({'prediction': predicted_class}) 
+        return disease_info
  
     except Exception as e:
         return jsonify({'error': str(e)}), 500
