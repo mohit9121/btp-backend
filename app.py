@@ -4,6 +4,7 @@ import numpy as np
 import io
 import tensorflow as tf
 import pickle
+import json
 
 app = Flask(__name__) 
 
@@ -14,6 +15,16 @@ input_details = interpreter.get_input_details()
 output_details = interpreter.get_output_details()
 input_shape = input_details[0]['shape'][1:3]
 
+# Read the contents of the JSON file
+with open('./plant_disease_info.json', 'r') as file:
+    plant_info = json.load(file)
+
+
+def get_disease_info(disease_name):
+    for disease in plant_info:
+        if disease['disease'] == disease_name:
+            return disease
+    return "Error occured in getting information about this disease"
 
 
 def preprocess_image(image):
@@ -62,7 +73,11 @@ def predict():
         # print(plant_disease_names[top_three_indices[2]]) 
         # print(plant_disease_names[top_three_indices[3]]) 
         # print(plant_disease_names[top_three_indices[4]]) 
-        return jsonify({'prediction': predicted_class}) 
+        disease_info = get_disease_info(predicted_class)
+        print(disease_info)
+
+        # return jsonify({'prediction': predicted_class}) 
+        return disease_info 
  
     except Exception as e:
         return jsonify({'error': str(e)}), 500
